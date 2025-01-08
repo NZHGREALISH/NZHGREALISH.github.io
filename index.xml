@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://www.adrianmoreno.info/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0100</lastBuildDate>
-    <atom:link href="https://www.adrianmoreno.info/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Job #3</title>
-      <link>https://www.adrianmoreno.info/experience/job-3/</link>
+      <link>http://localhost:1313/experience/job-3/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate>
-      <guid>https://www.adrianmoreno.info/experience/job-3/</guid>
+      <guid>http://localhost:1313/experience/job-3/</guid>
       <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;Hostile takeover - who is the boss now!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Graziella Nutella</title>
-      <link>https://www.adrianmoreno.info/testimonial/graziella-nutella/</link>
+      <link>http://localhost:1313/testimonial/graziella-nutella/</link>
       <pubDate>Mon, 25 Nov 2024 21:53:18 +0100</pubDate>
-      <guid>https://www.adrianmoreno.info/testimonial/graziella-nutella/</guid>
+      <guid>http://localhost:1313/testimonial/graziella-nutella/</guid>
       <description>&lt;p&gt;Working with this freelancer has been an exceptional experience. They consistently deliver high-quality work, demonstrating a keen eye for detail and a deep understanding of the project requirements. Their professionalism and commitment to excellence are evident in every task they undertake. They are not only skilled and knowledgeable but also incredibly reliable and easy to work with. I highly recommend this freelancer to anyone looking for top-tier talent and a dependable partner.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dana Oneal</title>
-      <link>https://www.adrianmoreno.info/testimonial/dana-oneal/</link>
+      <link>http://localhost:1313/testimonial/dana-oneal/</link>
       <pubDate>Mon, 25 Nov 2024 21:50:45 +0100</pubDate>
-      <guid>https://www.adrianmoreno.info/testimonial/dana-oneal/</guid>
+      <guid>http://localhost:1313/testimonial/dana-oneal/</guid>
       <description>&lt;p&gt;I had the pleasure of working with this freelancer on several projects, and their performance has been nothing short of outstanding. They bring a high level of expertise, creativity, and dedication to every task. Their ability to understand project requirements and deliver exceptional results on time is truly impressive. They are a reliable and proactive professional who consistently exceeds expectations. I highly recommend this freelancer to anyone seeking top-notch skills and a collaborative partner.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ferdinand Shermand</title>
-      <link>https://www.adrianmoreno.info/testimonial/ferdinand-shermand/</link>
+      <link>http://localhost:1313/testimonial/ferdinand-shermand/</link>
       <pubDate>Mon, 25 Nov 2024 21:30:46 +0100</pubDate>
-      <guid>https://www.adrianmoreno.info/testimonial/ferdinand-shermand/</guid>
+      <guid>http://localhost:1313/testimonial/ferdinand-shermand/</guid>
       <description>&lt;p&gt;Working with this colleague has been an absolute pleasure. Their dedication, professionalism, and positive attitude make them an invaluable asset to our team. They consistently go above and beyond to ensure that projects are completed on time and to the highest standard. Their ability to collaborate effectively and support their colleagues is truly commendable. I am continually impressed by their innovative thinking and problem-solving skills. This colleague is not just a team member but a true inspiration and a driving force behind our team’s success.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ztos</title>
-      <link>https://www.adrianmoreno.info/client-work/ztos/</link>
+      <link>http://localhost:1313/client-work/ztos/</link>
       <pubDate>Sun, 25 Aug 2024 10:23:39 +0200</pubDate>
-      <guid>https://www.adrianmoreno.info/client-work/ztos/</guid>
+      <guid>http://localhost:1313/client-work/ztos/</guid>
       <description></description>
     </item>
     <item>
       <title>Zoo</title>
-      <link>https://www.adrianmoreno.info/client-work/zoo/</link>
+      <link>http://localhost:1313/client-work/zoo/</link>
       <pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate>
-      <guid>https://www.adrianmoreno.info/client-work/zoo/</guid>
+      <guid>http://localhost:1313/client-work/zoo/</guid>
       <description></description>
     </item>
     <item>
       <title>Kanba</title>
-      <link>https://www.adrianmoreno.info/client-work/kanba/</link>
+      <link>http://localhost:1313/client-work/kanba/</link>
       <pubDate>Sun, 25 Aug 2024 10:22:34 +0200</pubDate>
-      <guid>https://www.adrianmoreno.info/client-work/kanba/</guid>
+      <guid>http://localhost:1313/client-work/kanba/</guid>
       <description></description>
     </item>
     <item>
       <title>Goldline</title>
-      <link>https://www.adrianmoreno.info/client-work/goldline/</link>
+      <link>http://localhost:1313/client-work/goldline/</link>
       <pubDate>Sun, 25 Aug 2024 10:21:48 +0200</pubDate>
-      <guid>https://www.adrianmoreno.info/client-work/goldline/</guid>
+      <guid>http://localhost:1313/client-work/goldline/</guid>
       <description></description>
     </item>
     <item>
       <title>Earth 2.0</title>
-      <link>https://www.adrianmoreno.info/client-work/earth2.0/</link>
+      <link>http://localhost:1313/client-work/earth2.0/</link>
       <pubDate>Sun, 25 Aug 2024 10:17:12 +0200</pubDate>
-      <guid>https://www.adrianmoreno.info/client-work/earth2.0/</guid>
+      <guid>http://localhost:1313/client-work/earth2.0/</guid>
       <description></description>
     </item>
     <item>
       <title>Asgardia</title>
-      <link>https://www.adrianmoreno.info/client-work/asgardia/</link>
+      <link>http://localhost:1313/client-work/asgardia/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://www.adrianmoreno.info/client-work/asgardia/</guid>
+      <guid>http://localhost:1313/client-work/asgardia/</guid>
       <description></description>
     </item>
     <item>
       <title>Radity Finance - UI Kit</title>
-      <link>https://www.adrianmoreno.info/projects/radity-finance-uikit/</link>
+      <link>http://localhost:1313/projects/radity-finance-uikit/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://www.adrianmoreno.info/projects/radity-finance-uikit/</guid>
+      <guid>http://localhost:1313/projects/radity-finance-uikit/</guid>
       <description>&lt;p&gt;We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Robo Advisor</title>
-      <link>https://www.adrianmoreno.info/projects/robo-advisor/</link>
+      <link>http://localhost:1313/projects/robo-advisor/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://www.adrianmoreno.info/projects/robo-advisor/</guid>
+      <guid>http://localhost:1313/projects/robo-advisor/</guid>
       <description>&lt;p&gt;Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swiss Fintech Website</title>
-      <link>https://www.adrianmoreno.info/projects/swiss-fintech/</link>
+      <link>http://localhost:1313/projects/swiss-fintech/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://www.adrianmoreno.info/projects/swiss-fintech/</guid>
+      <guid>http://localhost:1313/projects/swiss-fintech/</guid>
       <description>&lt;p&gt;The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sample blog content 3</title>
-      <link>https://www.adrianmoreno.info/blog/sample-3/</link>
+      <link>http://localhost:1313/blog/sample-3/</link>
       <pubDate>Mon, 24 Jun 2024 14:38:33 +0200</pubDate>
-      <guid>https://www.adrianmoreno.info/blog/sample-3/</guid>
-      <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.adrianmoreno.info/img/blog/feature-sample-3.png&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/sample-3/</guid>
+      <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/blog/feature-sample-3.png&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sample blog content 2</title>
-      <link>https://www.adrianmoreno.info/blog/sample-2/</link>
+      <link>http://localhost:1313/blog/sample-2/</link>
       <pubDate>Sun, 23 Jun 2024 14:38:33 +0200</pubDate>
-      <guid>https://www.adrianmoreno.info/blog/sample-2/</guid>
+      <guid>http://localhost:1313/blog/sample-2/</guid>
       <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is an unordered list sample 1&lt;/li&gt;&#xA;&lt;li&gt;This is an unordered list sample 2&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is an unordered indented list sample 1&lt;/li&gt;&#xA;&lt;li&gt;This is an unordered indented list sample 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;This is an ordered list sample 1&lt;/li&gt;&#xA;&lt;li&gt;This is an ordered list sample 2&#xA;&lt;ol&gt;&#xA;&lt;li&gt;This is an ordered indented list sample 1&lt;/li&gt;&#xA;&lt;li&gt;This is an ordered indented list sample 2&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sample blog content 1</title>
-      <link>https://www.adrianmoreno.info/blog/sample/</link>
+      <link>http://localhost:1313/blog/sample/</link>
       <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
-      <guid>https://www.adrianmoreno.info/blog/sample/</guid>
+      <guid>http://localhost:1313/blog/sample/</guid>
       <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trabajo #3</title>
-      <link>https://www.adrianmoreno.info/experience/job-3.es-copy/</link>
+      <link>http://localhost:1313/experience/job-3.es-copy/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
-      <guid>https://www.adrianmoreno.info/experience/job-3.es-copy/</guid>
+      <guid>http://localhost:1313/experience/job-3.es-copy/</guid>
       <description>&lt;h3 id=&#34;arreglando-el-mundo-un-byte-a-la-vez&#34;&gt;Arreglando el mundo, un byte a la vez&lt;/h3&gt;&#xA;&lt;p&gt;¡Adquisición hostil - ¿quién es el jefe ahora?!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Job #2</title>
-      <link>https://www.adrianmoreno.info/experience/job-2/</link>
+      <link>http://localhost:1313/experience/job-2/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate>
-      <guid>https://www.adrianmoreno.info/experience/job-2/</guid>
+      <guid>http://localhost:1313/experience/job-2/</guid>
       <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;Continuing the quest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Job #1</title>
-      <link>https://www.adrianmoreno.info/experience/job-1/</link>
+      <link>http://localhost:1313/experience/job-1/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate>
-      <guid>https://www.adrianmoreno.info/experience/job-1/</guid>
+      <guid>http://localhost:1313/experience/job-1/</guid>
       <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;The beginning of a great career.&lt;/p&gt;</description>
     </item>
   </channel>
