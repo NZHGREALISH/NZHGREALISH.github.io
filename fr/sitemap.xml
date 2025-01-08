@@ -2,110 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fr/</loc>
+    <loc>https://www.adrianmoreno.info/fr/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://www.adrianmoreno.info/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/"
+                href="https://www.adrianmoreno.info/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://www.adrianmoreno.info/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/experience/</loc>
+    <loc>https://www.adrianmoreno.info/fr/experience/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/experience/"
+                href="https://www.adrianmoreno.info/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/experience/"
+                href="https://www.adrianmoreno.info/es/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/experience/"
+                href="https://www.adrianmoreno.info/fr/experience/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/experience/job-3/</loc>
+    <loc>https://www.adrianmoreno.info/fr/experience/job-3/</loc>
     <lastmod>2024-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/experience/job-3/"
+                href="https://www.adrianmoreno.info/experience/job-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/experience/job-3/"
+                href="https://www.adrianmoreno.info/es/experience/job-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/experience/job-3/"
+                href="https://www.adrianmoreno.info/fr/experience/job-3/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/experience/job-2/</loc>
+    <loc>https://www.adrianmoreno.info/fr/experience/job-2/</loc>
     <lastmod>2023-01-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/experience/job-2/"
+                href="https://www.adrianmoreno.info/experience/job-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/experience/job-2/"
+                href="https://www.adrianmoreno.info/es/experience/job-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/experience/job-2/"
+                href="https://www.adrianmoreno.info/fr/experience/job-2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/categories/</loc>
+    <loc>https://www.adrianmoreno.info/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://www.adrianmoreno.info/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/"
+                href="https://www.adrianmoreno.info/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="https://www.adrianmoreno.info/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/</loc>
+    <loc>https://www.adrianmoreno.info/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://www.adrianmoreno.info/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/"
+                href="https://www.adrianmoreno.info/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="https://www.adrianmoreno.info/fr/tags/"
                 />
   </url>
 </urlset>
