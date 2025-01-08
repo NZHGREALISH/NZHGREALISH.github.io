@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on </title>
+    <link>https://www.adrianmoreno.info/blog/</link>
+    <description>Recent content in Blogs on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Jun 2024 14:38:33 +0200</lastBuildDate>
+    <atom:link href="https://www.adrianmoreno.info/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample blog content 3</title>
+      <link>https://www.adrianmoreno.info/blog/sample-3/</link>
+      <pubDate>Mon, 24 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>https://www.adrianmoreno.info/blog/sample-3/</guid>
+      <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.adrianmoreno.info/img/blog/feature-sample-3.png&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sample blog content 2</title>
+      <link>https://www.adrianmoreno.info/blog/sample-2/</link>
+      <pubDate>Sun, 23 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>https://www.adrianmoreno.info/blog/sample-2/</guid>
+      <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is an unordered list sample 1&lt;/li&gt;&#xA;&lt;li&gt;This is an unordered list sample 2&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is an unordered indented list sample 1&lt;/li&gt;&#xA;&lt;li&gt;This is an unordered indented list sample 2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;This is an ordered list sample 1&lt;/li&gt;&#xA;&lt;li&gt;This is an ordered list sample 2&#xA;&lt;ol&gt;&#xA;&lt;li&gt;This is an ordered indented list sample 1&lt;/li&gt;&#xA;&lt;li&gt;This is an ordered indented list sample 2&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sample blog content 1</title>
+      <link>https://www.adrianmoreno.info/blog/sample/</link>
+      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>https://www.adrianmoreno.info/blog/sample/</guid>
+      <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
