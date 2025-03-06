@@ -113,6 +113,40 @@
             justify-content: center;
         }
         
+        /* CV Section */
+        .cv-content {
+            max-width: 700px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        
+        .cv-content p {
+            margin-bottom: 25px;
+            font-size: 1.1rem;
+        }
+        
+        .cv-download-btn {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: var(--secondary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 500;
+            transition: all 0.3s;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        .cv-download-btn:hover {
+            background-color: var(--primary-color);
+            transform: translateY(-3px);
+            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+        }
+        
+        .cv-download-btn i {
+            margin-right: 8px;
+        }
+        
         nav ul li a {
             display: block;
             padding: 16px 20px;
@@ -528,15 +562,13 @@
     <header>
         <div class="container">
             <div class="profile-container">
-                <div class="profile-image">
-                    GN
-                </div>
+    
                 <div class="profile-text">
                     <h1>Grealish Zhenghao Ni</h1>
                     <h2>Electrical & Computer Engineering Student</h2>
                     <div class="contact-links">
                         <a href="mailto:zhenghao.ni@mail.utoronto.ca"><i class="fas fa-envelope"></i> Email</a>
-                        <a href="https://www.linkedin.com/in/grealish-ni-5369882a2/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                        <a href="https://www.linkedin.com/in/zhenghaoni" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
                         <a href="https://github.com/NZHGREALISH" target="_blank"><i class="fab fa-github"></i> GitHub</a>
                         <a href="tel:+14167007189"><i class="fas fa-phone"></i> +1 416-700-7189</a>
                     </div>
@@ -553,6 +585,7 @@
             <li><a href="#experience">Experience</a></li>
             <li><a href="#projects">Projects</a></li>
             <li><a href="#skills">Skills</a></li>
+            <li><a href="#cv">CV</a></li>
         </ul>
     </nav>
 
@@ -760,13 +793,26 @@
         </div>
     </section>
 
+    <!-- CV Section -->
+    <section id="cv" style="background-color: #f8f9fa;">
+        <div class="container">
+            <h2>Curriculum Vitae</h2>
+            <div class="cv-content">
+                <p>For a detailed look at my qualifications, experience, and achievements, please download my CV.</p>
+                <a href="https://drive.google.com/file/d/11tjnfjXnF62zkWf-9O35zXWfBvCDNL6N/view?usp=sharing" target="_blank" class="cv-download-btn">
+                    <i class="fas fa-file-pdf"></i> View My CV
+                </a>
+            </div>
+        </div>
+    </section>
+
     <!-- Footer -->
     <footer>
         <div class="container">
             <div class="footer-content">
                 <div class="footer-links">
                     <a href="mailto:zhenghao.ni@mail.utoronto.ca"><i class="fas fa-envelope"></i> Email</a>
-                    <a href="https://www.linkedin.com/in/grealish-ni-5369882a2/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/zhenghaoni" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
                     <a href="https://github.com/NZHGREALISH" target="_blank"><i class="fab fa-github"></i> GitHub</a>
                     <a href="tel:+14167007189"><i class="fas fa-phone"></i> Contact</a>
                 </div>
