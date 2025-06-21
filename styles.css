@@ -18,12 +18,18 @@ body {
     color: #333;
     line-height: 1.6;
     font-size: 18px;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background: #f4f4f4;
 }
 
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
+    max-width: 960px;
+    overflow: hidden;
+    padding: 0 2rem;
+    position: relative;
 }
 
 /* Header styles */
@@ -594,4 +600,28 @@ footer {
         min-width: 120px;
         text-align: center;
     }
+}
+
+/* Language Switcher */
+.lang-switch {
+    position: absolute;
+    top: 1rem;
+    right: 2rem;
+    font-size: 0.9rem;
+    z-index: 1000;
+}
+
+.lang-switch a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.lang-switch a:hover {
+    text-decoration: underline;
+}
+
+.lang-switch .active-lang {
+    font-weight: bold;
+    color: #007bff;
 }
