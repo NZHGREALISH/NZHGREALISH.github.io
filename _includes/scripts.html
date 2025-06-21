@@ -2,23 +2,30 @@
     // Smooth scrolling for navigation links
     document.querySelectorAll('nav a').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
-            e.preventDefault();
-
-            // Remove active class from all links
-            document.querySelectorAll('nav a').forEach(link => {
-                link.classList.remove('active');
-            });
-
-            // Add active class to clicked link
-            this.classList.add('active');
-
             const href = this.getAttribute('href');
-            const offsetTop = document.querySelector(href).offsetTop;
 
-            window.scrollTo({
-                top: offsetTop - 60,
-                behavior: 'smooth'
-            });
+            if (href.startsWith('#')) {
+                e.preventDefault();
+
+                // Remove active class from all links
+                document.querySelectorAll('nav a').forEach(link => {
+                    link.classList.remove('active');
+                });
+
+                // Add active class to clicked link
+                this.classList.add('active');
+
+                const targetElement = document.querySelector(href);
+                if (targetElement) {
+                    const offsetTop = targetElement.offsetTop;
+
+                    window.scrollTo({
+                        top: offsetTop - 60,
+                        behavior: 'smooth'
+                    });
+                }
+            }
+            // For external links, the default browser action will be followed.
         });
     });
 
