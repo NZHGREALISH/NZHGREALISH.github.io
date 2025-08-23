@@ -382,6 +382,34 @@ section h2::after {
     margin-bottom: 8px;
 }
 
+/* Compact staggered timeline layout */
+.timeline-compact-staggered .timeline-item {
+    padding: 15px 40px;
+    margin-bottom: -30px; /* Create overlap between items */
+}
+
+.timeline-compact-staggered .timeline-item:nth-child(even) {
+    margin-top: 40px; /* Offset even items downward */
+}
+
+.timeline-compact-staggered .timeline-item:nth-child(odd) {
+    z-index: 2; /* Ensure proper layering */
+}
+
+.timeline-compact-staggered .timeline-item:nth-child(even) {
+    z-index: 1;
+}
+
+.timeline-compact-staggered .timeline-content {
+    position: relative;
+    z-index: inherit;
+}
+
+/* Adjust circle positions for staggered layout */
+.timeline-compact-staggered .timeline-item::after {
+    top: 25px; /* Adjust circle position */
+}
+
 /* Projects section */
 .projects-grid {
     display: grid;
