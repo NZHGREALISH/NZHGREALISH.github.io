@@ -303,7 +303,7 @@ section h2::after {
     width: 2px;
     background-color: var(--secondary-color);
     top: 0;
-    height: calc(100% - 350px); /* Back to original adjusted height */
+    height: calc(100% - 350px); /* Further reduce height to end at content bottom */
     left: 50%;
     margin-left: -1px;
 }
@@ -367,25 +367,6 @@ section h2::after {
     font-weight: 500;
 }
 
-.timeline-title .research-group {
-    font-size: 0.9rem;
-    color: #666;
-    font-style: italic;
-    margin-top: 5px;
-    display: block;
-}
-
-.timeline-title .research-group a {
-    color: var(--secondary-color);
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-
-.timeline-title .research-group a:hover {
-    color: var(--primary-color);
-    text-decoration: underline;
-}
-
 .timeline-title .duration {
     color: #666;
     font-size: 0.9rem;
@@ -401,17 +382,6 @@ section h2::after {
     margin-bottom: 8px;
 }
 
-/* Reduce section padding for experience section */
-#experience {
-    padding-bottom: 5px !important; /* Minimal bottom padding */
-}
-
-/* Remove extra spacing from timeline container */
-.timeline-compact-staggered {
-    margin-bottom: -320px !important; /* Negative margin to exactly compensate for upward movement */
-    padding-bottom: 0 !important; /* Remove extra padding */
-}
-
 /* Compact staggered timeline layout - using !important to override base styles */
 .timeline-compact-staggered .timeline-item {
     padding: 15px 40px !important;
@@ -421,6 +391,10 @@ section h2::after {
 
 .timeline-compact-staggered .timeline-item:last-child {
     margin-bottom: 0 !important; /* Remove bottom margin from last item */
+}
+
+.timeline-compact-staggered {
+    margin-bottom: 0 !important; /* Remove bottom margin from timeline */
 }
 
 /* Right side items - move up dramatically to middle position of previous item */

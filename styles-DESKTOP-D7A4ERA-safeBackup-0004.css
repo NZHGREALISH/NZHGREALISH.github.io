@@ -367,25 +367,6 @@ section h2::after {
     font-weight: 500;
 }
 
-.timeline-title .research-group {
-    font-size: 0.9rem;
-    color: #666;
-    font-style: italic;
-    margin-top: 5px;
-    display: block;
-}
-
-.timeline-title .research-group a {
-    color: var(--secondary-color);
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-
-.timeline-title .research-group a:hover {
-    color: var(--primary-color);
-    text-decoration: underline;
-}
-
 .timeline-title .duration {
     color: #666;
     font-size: 0.9rem;
