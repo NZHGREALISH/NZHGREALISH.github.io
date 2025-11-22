@@ -38,6 +38,19 @@ header {
     color: white;
     padding: 60px 0 30px;
     text-align: center;
+    animation: gradient-animation 10s ease infinite;
+}
+
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
 }
 
 .profile-container {
@@ -98,10 +111,11 @@ header {
     margin-right: 5px;
 }
 
+
 /* Navigation */
 nav {
     background-color: white;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     position: sticky;
     top: 0;
     z-index: 100;
@@ -483,7 +497,14 @@ section h2::after {
 }
 
 .project-card:hover {
-    transform: translateY(-5px);
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.skill-pill:hover {
+    background-color: var(--secondary-color);
+    color: white;
+    transform: scale(1.1);
 }
 
 .project-link {
